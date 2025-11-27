@@ -1,0 +1,6 @@
+Simple Air Quality Report
+=========================
+Rows after cleaning: 647511
+
+Mean PM2.5: 25.41
+Mean PM10: 43.71
